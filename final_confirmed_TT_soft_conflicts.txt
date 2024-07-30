@@ -1,0 +1,23 @@
+﻿Soft conflicts of final_confirmed_TT.fet
+Generated with FET 6.22.2 on 7/29/24 11:19 AM
+
+Number of broken soft constraints: 13
+Total soft conflicts: 12.74
+
+Soft conflicts list (in decreasing order):
+
+Time constraint activities preferred starting times broken for activity with id=49 (    2/6 - AR - MATHS - T - 10 J), increases conflicts total by 0.98
+Time constraint activities preferred starting times broken for activity with id=70 (    2/6 - RJ - MATHS - T - 10 G), increases conflicts total by 0.98
+Time constraint activities preferred starting times broken for activity with id=121 (    2/6 - LSD - MATHS - T - 10 E), increases conflicts total by 0.98
+Time constraint activities preferred starting times broken for activity with id=229 (    2/6 - YJA - SS - T - 10 C), increases conflicts total by 0.98
+Time constraint activities preferred starting times broken for activity with id=279 (    2/6 - RKSN - SS - T - 10 B), increases conflicts total by 0.98
+Time constraint activities preferred starting times broken for activity with id=333 (    2/6 - TKSR - ENG - T - 10 H), increases conflicts total by 0.98
+Time constraint activities preferred starting times broken for activity with id=1088 (2 - RVI - IT - L - 8 C), increases conflicts total by 0.98
+Time constraint activities preferred starting times broken for activity with id=1132 (    2/6 - KSJ - MAL - T - 8 E), increases conflicts total by 0.98
+Time constraint activities preferred starting times broken for activity with id=1161 (    2/6 - SLD - MAL - T - 10 I), increases conflicts total by 0.98
+Time constraint activities preferred starting times broken for activity with id=1196 (    2/6 - SPS - MAL - T - 10 A), increases conflicts total by 0.98
+Time constraint activities preferred starting times broken for activity with id=1226 (    2/6 - SM - MAL - T - 8 D), increases conflicts total by 0.98
+Time constraint activities preferred starting times broken for activity with id=1232 (2/6 -     SM - MAL - T - 8 G), increases conflicts total by 0.98
+Time constraint activities preferred starting times broken for activity with id=1240 (    2/6 - SSN - MAL - T - 9 E), increases conflicts total by 0.98
+
+End of file.
